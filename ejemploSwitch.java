@@ -34,7 +34,7 @@ public class ejemploSwitch{
                 resultado = num1 * num2;
                 break;
             case 4:
-                resultado = num1 + num2;;
+                resultado = num1 / num2;;
                 break;
             default:
                 System.out.println("Opcion no valida.");
